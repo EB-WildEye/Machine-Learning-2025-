@@ -16,6 +16,8 @@ Most models are implemented from scratch in NumPy first, then compared against s
 | 6 | Kleiber's law | Linear regression and gradient descent on a power law |
 | 7 | - | Maximum likelihood estimation |
 
+<img src="assets/ex1-linear-regression.svg" alt="Linear regression fit on the cricket data" width="640">
+
 ### 2. Logistic regression and regularization - [`ex-2-logistic-regrresion-and-regularization`](ex-2-logistic-regrresion-and-regularization)
 
 | Part | Dataset | Topic |
@@ -24,6 +26,8 @@ Most models are implemented from scratch in NumPy first, then compared against s
 | 2-3 | Email data | Spam classification |
 | 4 | Email data | Polynomial features and a non-linear decision boundary |
 | 5 | Iris | Multi-class classification, one-vs-all |
+
+<img src="assets/ex2-logistic-regression.svg" alt="Logistic regression decision boundary on the admittance data" width="640">
 
 ### 3. Classification and clustering - [`ex-3-classifier-and-clustering`](ex-3-classifier-and-clustering)
 
@@ -34,6 +38,8 @@ Most models are implemented from scratch in NumPy first, then compared against s
 | 3 | - | K-means implementation |
 | 4 | - | K-means with scikit-learn |
 | 5 | - | Hierarchical clustering |
+
+<img src="assets/ex3-kmeans.svg" alt="K-means clusters on the penguin data" width="640">
 
 ## Stack
 
